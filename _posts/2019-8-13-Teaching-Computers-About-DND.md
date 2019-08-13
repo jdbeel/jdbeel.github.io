@@ -4,8 +4,6 @@ title: Teaching Computers About D&D
 excerpt: There are only a few generative D&D ML explorations out there, and the stuff that exists is realtively simple. Can we do something more complex and more interesting with the nearly endless realm of possibilites that is D&D?
 ---
 
-# Teaching Computers About D&D
-
 I am perpetually dissatisfied with the current state of machine-generated Dungeons & Dragons content on the Internet. Sure, sometimes we get some spells with funny descriptions, or someone generating spell _names_, but these things aren't particularly sophisticated or interesting. Most of the spells barely make sense, let alone could be used in an actual campaign. So, this is where I want to come in. My friend David and I are going to try to generate things in a more sophisticated way using a [Generative Adversarial Network (GAN)](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf). The idea is, use a neural network that is designed to distinguish _real_ D&D spells from fabricated ones and have them compete against each other. The generator doing its best to generate realistic-looking spells and the discriminator constantly trying to detect which are fake. Through this process both networks become sufficiently sophisticated.
 
 ![fireball](/assets/images/dnd_spell.jpg "The iconic spell 'Fireball'")
