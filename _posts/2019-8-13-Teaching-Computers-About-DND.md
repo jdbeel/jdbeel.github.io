@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Teaching Computers About D&D
+title: A Box of Ideas
+post-title: Teaching Computers About D&D
 excerpt: There are only a few generative D&D ML explorations out there, and the stuff that exists is realtively simple. Can we do something more complex and more interesting with the nearly endless realm of possibilites that is D&D?
 ---
 
