@@ -3,6 +3,11 @@
 
 @import 'jekyll-theme-cayman';
 
-#nav {
+#nav tr td a {
     color:white;
+}
+
+#nav {
+    margin: auto;
+    width: 50%;
 }
