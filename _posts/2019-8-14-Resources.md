@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Box of Ideas
+title: Jacob Beel
 post-title: D&D Resources
 excerpt: The D&D community has put together some very helpful resources for us to use going forward.
 ---

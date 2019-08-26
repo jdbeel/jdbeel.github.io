@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Box of Ideas
+title: Jacob Beel
 post-title: The Problems with Mode Collapse
 excerpt: My first experiments led to mode collapse, what steps can we take to fix that problem?
 ---
